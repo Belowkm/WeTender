@@ -1,2 +1,0 @@
-# WeTender
-WeTender
